@@ -13,6 +13,6 @@ Website Link:
 
 Topics:
 1. Implementation skills
---> ACM Lecture:<a href="https://docs.google.com/presentation/d/1nDouAu-LL3JK5q9UFapij1IiAIAPSal9KwdIHLpqGSg/edit?usp=sharing" target="_blank">First Lecture</a> <br> 
+--> ACM Lecture: <a href="https://docs.google.com/presentation/d/1nDouAu-LL3JK5q9UFapij1IiAIAPSal9KwdIHLpqGSg/edit?usp=sharing" target="_blank"> First Lecture</a> <br> 
 
 </html>
